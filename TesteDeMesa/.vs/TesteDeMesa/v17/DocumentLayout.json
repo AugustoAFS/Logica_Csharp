@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\augustosantos\\source\\repos\\TesteDeMesa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8F3E67-B29E-4116-9366-8141E0D17ABC}|TesteDeMesa.csproj|c:\\users\\augustosantos\\source\\repos\\testedemesa\\exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8F3E67-B29E-4116-9366-8141E0D17ABC}|TesteDeMesa.csproj|solutionrelative:exercicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8F3E67-B29E-4116-9366-8141E0D17ABC}|TesteDeMesa.csproj|c:\\users\\augustosantos\\source\\repos\\testedemesa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8F3E67-B29E-4116-9366-8141E0D17ABC}|TesteDeMesa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercicios.cs",
+              "DocumentMoniker": "C:\\Users\\augustosantos\\source\\repos\\TesteDeMesa\\Exercicios.cs",
+              "RelativeDocumentMoniker": "Exercicios.cs",
+              "ToolTip": "C:\\Users\\augustosantos\\source\\repos\\TesteDeMesa\\Exercicios.cs",
+              "RelativeToolTip": "Exercicios.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAzwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:29:56.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\augustosantos\\source\\repos\\TesteDeMesa\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\augustosantos\\source\\repos\\TesteDeMesa\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:13:02.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
