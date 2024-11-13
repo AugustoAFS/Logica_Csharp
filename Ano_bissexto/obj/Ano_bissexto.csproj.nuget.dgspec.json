@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\Ano_bissexto\\Ano_bissexto.csproj": {}
+    "C:\\Users\\augus\\OneDrive\\Desktop\\Logica_Csharp\\Ano_bissexto\\Ano_bissexto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\Ano_bissexto\\Ano_bissexto.csproj": {
+    "C:\\Users\\augus\\OneDrive\\Desktop\\Logica_Csharp\\Ano_bissexto\\Ano_bissexto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\Ano_bissexto\\Ano_bissexto.csproj",
+        "projectUniqueName": "C:\\Users\\augus\\OneDrive\\Desktop\\Logica_Csharp\\Ano_bissexto\\Ano_bissexto.csproj",
         "projectName": "Ano_bissexto",
-        "projectPath": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\Ano_bissexto\\Ano_bissexto.csproj",
-        "packagesPath": "C:\\Users\\augustosantos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\Ano_bissexto\\obj\\",
+        "projectPath": "C:\\Users\\augus\\OneDrive\\Desktop\\Logica_Csharp\\Ano_bissexto\\Ano_bissexto.csproj",
+        "packagesPath": "C:\\Users\\augus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\augus\\OneDrive\\Desktop\\Logica_Csharp\\Ano_bissexto\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\augustosantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\augus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
