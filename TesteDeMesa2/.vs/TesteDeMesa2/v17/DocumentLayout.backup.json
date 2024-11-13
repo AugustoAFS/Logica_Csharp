@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\augustosantos\\Desktop\\TesteDeMesa\\TesteDeMesa2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9359A03B-8B7C-4ADB-AD89-0FEC586F73EF}|TesteDeMesa2.csproj|c:\\users\\augustosantos\\desktop\\testedemesa\\testedemesa2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9359A03B-8B7C-4ADB-AD89-0FEC586F73EF}|TesteDeMesa2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9359A03B-8B7C-4ADB-AD89-0FEC586F73EF}|TesteDeMesa2.csproj|c:\\users\\augustosantos\\desktop\\testedemesa\\testedemesa2\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9359A03B-8B7C-4ADB-AD89-0FEC586F73EF}|TesteDeMesa2.csproj|solutionrelative:exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9359A03B-8B7C-4ADB-AD89-0FEC586F73EF}|TesteDeMesa2.csproj|c:\\users\\augustosantos\\desktop\\testedemesa\\testedemesa2\\exercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9359A03B-8B7C-4ADB-AD89-0FEC586F73EF}|TesteDeMesa2.csproj|solutionrelative:exercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9359A03B-8B7C-4ADB-AD89-0FEC586F73EF}|TesteDeMesa2.csproj|c:\\users\\augustosantos\\desktop\\testedemesa\\testedemesa2\\exerciciobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9359A03B-8B7C-4ADB-AD89-0FEC586F73EF}|TesteDeMesa2.csproj|solutionrelative:exerciciobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9359A03B-8B7C-4ADB-AD89-0FEC586F73EF}|TesteDeMesa2.csproj|c:\\users\\augustosantos\\desktop\\testedemesa\\testedemesa2\\iexericio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9359A03B-8B7C-4ADB-AD89-0FEC586F73EF}|TesteDeMesa2.csproj|solutionrelative:iexericio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9359A03B-8B7C-4ADB-AD89-0FEC586F73EF}|TesteDeMesa2.csproj|c:\\users\\augustosantos\\desktop\\testedemesa\\testedemesa2\\exercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9359A03B-8B7C-4ADB-AD89-0FEC586F73EF}|TesteDeMesa2.csproj|solutionrelative:exercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9359A03B-8B7C-4ADB-AD89-0FEC586F73EF}|TesteDeMesa2.csproj|c:\\users\\augustosantos\\desktop\\testedemesa\\testedemesa2\\exercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9359A03B-8B7C-4ADB-AD89-0FEC586F73EF}|TesteDeMesa2.csproj|solutionrelative:exercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9359A03B-8B7C-4ADB-AD89-0FEC586F73EF}|TesteDeMesa2.csproj|c:\\users\\augustosantos\\desktop\\testedemesa\\testedemesa2\\exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9359A03B-8B7C-4ADB-AD89-0FEC586F73EF}|TesteDeMesa2.csproj|solutionrelative:exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IExericio.cs",
+              "DocumentMoniker": "C:\\Users\\augustosantos\\Desktop\\TesteDeMesa\\TesteDeMesa2\\IExericio.cs",
+              "RelativeDocumentMoniker": "IExericio.cs",
+              "ToolTip": "C:\\Users\\augustosantos\\Desktop\\TesteDeMesa\\TesteDeMesa2\\IExericio.cs",
+              "RelativeToolTip": "IExericio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:04:12.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercicio5.cs",
+              "DocumentMoniker": "C:\\Users\\augustosantos\\Desktop\\TesteDeMesa\\TesteDeMesa2\\Exercicio5.cs",
+              "RelativeDocumentMoniker": "Exercicio5.cs",
+              "ToolTip": "C:\\Users\\augustosantos\\Desktop\\TesteDeMesa\\TesteDeMesa2\\Exercicio5.cs",
+              "RelativeToolTip": "Exercicio5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:01:05.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exercicio4.cs",
+              "DocumentMoniker": "C:\\Users\\augustosantos\\Desktop\\TesteDeMesa\\TesteDeMesa2\\Exercicio4.cs",
+              "RelativeDocumentMoniker": "Exercicio4.cs",
+              "ToolTip": "C:\\Users\\augustosantos\\Desktop\\TesteDeMesa\\TesteDeMesa2\\Exercicio4.cs",
+              "RelativeToolTip": "Exercicio4.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:00:52.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\augustosantos\\Desktop\\TesteDeMesa\\TesteDeMesa2\\Exercicio3.cs",
+              "RelativeDocumentMoniker": "Exercicio3.cs",
+              "ToolTip": "C:\\Users\\augustosantos\\Desktop\\TesteDeMesa\\TesteDeMesa2\\Exercicio3.cs",
+              "RelativeToolTip": "Exercicio3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:00:40.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Exercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\augustosantos\\Desktop\\TesteDeMesa\\TesteDeMesa2\\Exercicio2.cs",
+              "RelativeDocumentMoniker": "Exercicio2.cs",
+              "ToolTip": "C:\\Users\\augustosantos\\Desktop\\TesteDeMesa\\TesteDeMesa2\\Exercicio2.cs",
+              "RelativeToolTip": "Exercicio2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T16:00:29.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExercicioBase.cs",
+              "DocumentMoniker": "C:\\Users\\augustosantos\\Desktop\\TesteDeMesa\\TesteDeMesa2\\ExercicioBase.cs",
+              "RelativeDocumentMoniker": "ExercicioBase.cs",
+              "ToolTip": "C:\\Users\\augustosantos\\Desktop\\TesteDeMesa\\TesteDeMesa2\\ExercicioBase.cs",
+              "RelativeToolTip": "ExercicioBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:52:02.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\augustosantos\\Desktop\\TesteDeMesa\\TesteDeMesa2\\Exercicio1.cs",
+              "RelativeDocumentMoniker": "Exercicio1.cs",
+              "ToolTip": "C:\\Users\\augustosantos\\Desktop\\TesteDeMesa\\TesteDeMesa2\\Exercicio1.cs",
+              "RelativeToolTip": "Exercicio1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:54:15.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\augustosantos\\Desktop\\TesteDeMesa\\TesteDeMesa2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\augustosantos\\Desktop\\TesteDeMesa\\TesteDeMesa2\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T15:33:10.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
