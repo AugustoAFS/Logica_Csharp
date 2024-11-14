@@ -12,12 +12,14 @@ namespace TesteDeMesa2
         {
             List<double> resultado = new List<double>();
 
-            for (int i = 1; i <= QtdePeriodo; i++)
+            Console.WriteLine("\nvalorPresente\t\ttaxaJuros\tperiodoMes\tvalor F");
+            for (int i = 1; i <= this.QtdePeriodo; i++)
             {
-                double Resultado = ValorPresente * Math.Pow((1 + TaxaJuros), i);
-                resultado.Add(Resultado);
-            }
+                double valorFuturo = this.ValorPresente * Math.Pow((1 + (this.TaxaJuros/100)), i);
+                resultado.Add(valorFuturo);
 
+                Console.WriteLine($"R$ {ValorPresente,10:N2}\t\t{TaxaJuros:F2}%\t\t{i}\t\tR$ {valorFuturo,10:N2}");
+            }
             return resultado;
         }
     }

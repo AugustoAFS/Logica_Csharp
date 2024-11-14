@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\augus\\OneDrive\\Desktop\\Logica_Csharp\\TesteDeMesa2\\TesteDeMesa2.csproj": {}
+    "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\TesteDeMesa2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\augus\\OneDrive\\Desktop\\Logica_Csharp\\TesteDeMesa2\\TesteDeMesa2.csproj": {
+    "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\TesteDeMesa2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\augus\\OneDrive\\Desktop\\Logica_Csharp\\TesteDeMesa2\\TesteDeMesa2.csproj",
+        "projectUniqueName": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\TesteDeMesa2.csproj",
         "projectName": "TesteDeMesa2",
-        "projectPath": "C:\\Users\\augus\\OneDrive\\Desktop\\Logica_Csharp\\TesteDeMesa2\\TesteDeMesa2.csproj",
-        "packagesPath": "C:\\Users\\augus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\augus\\OneDrive\\Desktop\\Logica_Csharp\\TesteDeMesa2\\obj\\",
+        "projectPath": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\TesteDeMesa2.csproj",
+        "packagesPath": "C:\\Users\\augustosantos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\augus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\augustosantos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,8 +42,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
