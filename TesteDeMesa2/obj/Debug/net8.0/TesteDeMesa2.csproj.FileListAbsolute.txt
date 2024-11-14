@@ -1,0 +1,15 @@
+C:\Users\augus\OneDrive\Desktop\Logica_Csharp\TesteDeMesa2\bin\Debug\net8.0\TesteDeMesa2.exe
+C:\Users\augus\OneDrive\Desktop\Logica_Csharp\TesteDeMesa2\bin\Debug\net8.0\TesteDeMesa2.deps.json
+C:\Users\augus\OneDrive\Desktop\Logica_Csharp\TesteDeMesa2\bin\Debug\net8.0\TesteDeMesa2.runtimeconfig.json
+C:\Users\augus\OneDrive\Desktop\Logica_Csharp\TesteDeMesa2\bin\Debug\net8.0\TesteDeMesa2.dll
+C:\Users\augus\OneDrive\Desktop\Logica_Csharp\TesteDeMesa2\bin\Debug\net8.0\TesteDeMesa2.pdb
+C:\Users\augus\OneDrive\Desktop\Logica_Csharp\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\augus\OneDrive\Desktop\Logica_Csharp\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.AssemblyInfoInputs.cache
+C:\Users\augus\OneDrive\Desktop\Logica_Csharp\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.AssemblyInfo.cs
+C:\Users\augus\OneDrive\Desktop\Logica_Csharp\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.csproj.CoreCompileInputs.cache
+C:\Users\augus\OneDrive\Desktop\Logica_Csharp\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.sourcelink.json
+C:\Users\augus\OneDrive\Desktop\Logica_Csharp\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.dll
+C:\Users\augus\OneDrive\Desktop\Logica_Csharp\TesteDeMesa2\obj\Debug\net8.0\refint\TesteDeMesa2.dll
+C:\Users\augus\OneDrive\Desktop\Logica_Csharp\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.pdb
+C:\Users\augus\OneDrive\Desktop\Logica_Csharp\TesteDeMesa2\obj\Debug\net8.0\TesteDeMesa2.genruntimeconfig.cache
+C:\Users\augus\OneDrive\Desktop\Logica_Csharp\TesteDeMesa2\obj\Debug\net8.0\ref\TesteDeMesa2.dll
