@@ -25,12 +25,6 @@ namespace TesteDeMesa2
 
                 Console.WriteLine($"R$ {this.ValorPresente,10:N2}\t\t{this.TaxaJuros:F2}%\t\t{i}\t\tR$ {valorFuturo,10:N2}");
             }
-           
-            
-
-
-
-
             return resultado;
         }
     }

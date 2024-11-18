@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BAC92BD9-FAD9-4368-9A5B-EC93BB19EFCC}|TesteDeMesa2.csproj|c:\\users\\augustosantos\\desktop\\logica_csharp\\testedemesa2\\exerciciobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC92BD9-FAD9-4368-9A5B-EC93BB19EFCC}|TesteDeMesa2.csproj|solutionrelative:exerciciobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BAC92BD9-FAD9-4368-9A5B-EC93BB19EFCC}|TesteDeMesa2.csproj|c:\\users\\augustosantos\\desktop\\logica_csharp\\testedemesa2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BAC92BD9-FAD9-4368-9A5B-EC93BB19EFCC}|TesteDeMesa2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,8 +15,20 @@
       "RelativeMoniker": "D:0:0:{BAC92BD9-FAD9-4368-9A5B-EC93BB19EFCC}|TesteDeMesa2.csproj|solutionrelative:exercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BAC92BD9-FAD9-4368-9A5B-EC93BB19EFCC}|TesteDeMesa2.csproj|c:\\users\\augustosantos\\desktop\\logica_csharp\\testedemesa2\\exerciciobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAC92BD9-FAD9-4368-9A5B-EC93BB19EFCC}|TesteDeMesa2.csproj|solutionrelative:exerciciobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BAC92BD9-FAD9-4368-9A5B-EC93BB19EFCC}|TesteDeMesa2.csproj|c:\\users\\augustosantos\\desktop\\logica_csharp\\testedemesa2\\exercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC92BD9-FAD9-4368-9A5B-EC93BB19EFCC}|TesteDeMesa2.csproj|solutionrelative:exercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC92BD9-FAD9-4368-9A5B-EC93BB19EFCC}|TesteDeMesa2.csproj|c:\\users\\augustosantos\\desktop\\logica_csharp\\testedemesa2\\exercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC92BD9-FAD9-4368-9A5B-EC93BB19EFCC}|TesteDeMesa2.csproj|solutionrelative:exercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC92BD9-FAD9-4368-9A5B-EC93BB19EFCC}|TesteDeMesa2.csproj|c:\\users\\augustosantos\\desktop\\logica_csharp\\testedemesa2\\exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC92BD9-FAD9-4368-9A5B-EC93BB19EFCC}|TesteDeMesa2.csproj|solutionrelative:exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAC92BD9-FAD9-4368-9A5B-EC93BB19EFCC}|TesteDeMesa2.csproj|c:\\users\\augustosantos\\desktop\\logica_csharp\\testedemesa2\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAC92BD9-FAD9-4368-9A5B-EC93BB19EFCC}|TesteDeMesa2.csproj|solutionrelative:exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "ExercicioBase.cs",
               "DocumentMoniker": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\ExercicioBase.cs",
               "RelativeDocumentMoniker": "ExercicioBase.cs",
               "ToolTip": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\ExercicioBase.cs",
               "RelativeToolTip": "ExercicioBase.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwDwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T13:53:09.742Z",
               "IsPinned": true,
@@ -41,33 +57,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T13:24:42.777Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Exercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\Exercicio1.cs",
+              "RelativeDocumentMoniker": "Exercicio1.cs",
+              "ToolTip": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\Exercicio1.cs",
+              "RelativeToolTip": "Exercicio1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:14:31.524Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\Exercicio2.cs",
+              "RelativeDocumentMoniker": "Exercicio2.cs",
+              "ToolTip": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\Exercicio2.cs",
+              "RelativeToolTip": "Exercicio2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:14:38.754Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\Exercicio3.cs",
+              "RelativeDocumentMoniker": "Exercicio3.cs",
+              "ToolTip": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\Exercicio3.cs",
+              "RelativeToolTip": "Exercicio3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:14:41.566Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercicio4.cs",
+              "DocumentMoniker": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\Exercicio4.cs",
+              "RelativeDocumentMoniker": "Exercicio4.cs",
+              "ToolTip": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\Exercicio4.cs",
+              "RelativeToolTip": "Exercicio4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:14:44.356Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Exercicio5.cs",
               "DocumentMoniker": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\Exercicio5.cs",
               "RelativeDocumentMoniker": "Exercicio5.cs",
-              "ToolTip": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\Exercicio5.cs*",
-              "RelativeToolTip": "Exercicio5.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\Exercicio5.cs",
+              "RelativeToolTip": "Exercicio5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T14:23:16.417Z",
+              "WhenOpened": "2024-11-14T16:14:47.896Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\augustosantos\\Desktop\\Logica_Csharp\\TesteDeMesa2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAABwAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T13:24:42.777Z",
-              "EditorCaption": ""
             }
           ]
         }
